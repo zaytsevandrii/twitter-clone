@@ -20,7 +20,7 @@ const Sidebar = () => {
             href: "/users/123",
             icon: FaUser,
         },
-    ]
+    ]  ///    16 минуn
     return(
         <div className="col-span-1 h-full pr-4 md:pr-6">
             <div className="flex flex-col items-end">
